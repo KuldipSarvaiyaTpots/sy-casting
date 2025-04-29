@@ -1,0 +1,55 @@
+{
+  "background": {
+    "type": "image",
+    "imageUrl": "https://stage.shivyogapp.com/assets/images/login/login1.png",
+    "overlayColor": "#00000080"
+  },
+  "mediaMetadata": {
+    "title": {
+      "fontFamily": "Roboto",
+      "fontSize": 24,
+      "fontColor": "#FFFFFF"
+    },
+    "subtitle": {
+      "fontFamily": "Roboto",
+      "fontSize": 18,
+      "fontColor": "#CCCCCC"
+    }
+  },
+  "splashScreen": {
+    "appName": {
+      "text": "ShivYog : Meditate & Manifest",
+      "fontFamily": "Roboto",
+      "fontSize": 22,
+      "fontColor": "#FFFFFF"
+    },
+    "logo": {
+      "imageUrl": "https://stage.shivyogapp.com/assets/images/logo.png",
+      "width": 200,
+      "height": 200
+    },
+    "backgroundColor": "#000000"
+  },
+  "controlButtons": {
+    "skipForward10": true,
+    "skipBackward10": true,
+    "playPauseToggle": true,
+    "seekBar": true,
+    "muteToggle": true
+  },
+  "styles": {
+    "progressBarColor": "#FF4081",
+    "progressBarBackgroundColor": "#404040",
+    "primaryTextColor": "#FFFFFF",
+    "secondaryTextColor": "#B0BEC5",
+    "iconColor": "#FFFFFF",
+    "highlightColor": "#FF4081"
+  },
+  "autoHideControls": true,
+  "logo": {
+    "imageUrl": "https://stage.shivyogapp.com/assets/images/logo.png",
+    "position": "top-right",
+    "width": 100,
+    "height": 100
+  }
+}
